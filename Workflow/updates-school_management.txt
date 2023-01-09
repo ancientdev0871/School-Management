@@ -1,0 +1,5 @@
+TODO:
+FIXME: give an aggregrate % (DONE)
+FIXME: optional subjects(hsc, ca, hindi or any other regional language(take the input of which language i.e sanskrit))
+FIXME: comments of the teacher (Done)
+FIXME: edit the result view
